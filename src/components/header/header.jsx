@@ -14,6 +14,9 @@ const Header = () => {
                         <Link to='/about'></Link>
                     </li>
                 </ul>
+                <div className='logo'>
+                    <h1>eShop</h1>
+                </div>
             </nav>
         </div> 
     );
